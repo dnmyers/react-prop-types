@@ -3,6 +3,8 @@
  * https://reactjs.org/docs/typechecking-with-proptypes.html
  * ******************************************************************************************* */
 
+// Got this cheat sheet from: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js
+
 import PropTypes from "prop-types";
 
 MyComponent.propTypes = {
